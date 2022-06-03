@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://placeimg.com/240/180/tech",
+      "category": "tech",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 2,
+      "img": "https://placeimg.com/240/180/animals",
+      "category": "animals",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 3,
+      "img": "https://placeimg.com/240/180/arch",
+      "category": "architecture",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 4,
+      "img": "https://placeimg.com/240/180/nature",
+      "category": "nature",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 5,
+      "img": "https://placeimg.com/240/180/people",
+      "category": "people",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 6,
+      "img": "https://placeimg.com/240/180/tech",
+      "category": "tech",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 7,
+      "img": "https://placeimg.com/240/180/people",
+      "category": "people",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 8,
+      "img": "https://placeimg.com/240/180/nature",
+      "category": "nature",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 9,
+      "img": "https://placeimg.com/240/180/nature",
+      "category": "nature",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 10,
+      "img": "https://placeimg.com/240/180/animals",
+      "category": "animals",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 11,
+      "img": "https://placeimg.com/240/180/tech",
+      "category": "tech",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    },
+    {
+      "id": 12,
+      "img": "https://placeimg.com/240/180/animals",
+      "category": "animals",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tellus ex, hendrerit ac dolor id, vehicula vestibulum velit. Suspendisse pharetra dapibus aliquam. Duis dui ante, fermentum vehicula molestie ac, lacinia id ipsum. Vivamus eget nibh vel elit molestie eleifend. Aenean in auctor nisi, et aliquam ligula. Fusce pellentesque quam eget."
+    }
+  ]
+}
